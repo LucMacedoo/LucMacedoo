@@ -26,5 +26,7 @@
 <h3>📱Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-macedo-da-silva-5797331b7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucmacedoo/)
+
 
 
