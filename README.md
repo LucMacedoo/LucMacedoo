@@ -7,3 +7,16 @@
 📚Atualmente, sou aluno na FATEC Antônio Russo em São Caetano do Sul e estudo inglês na CNA São Bernardo - Centro. Em casa, estou sempre em busca de conhecimento. Aproveito cursos online e, além disso, conduzo pesquisas independentes para adquirir o conhecimento necessário e aprofundar meu entendimento nos assuntos abordados.
 
 <hr></hr>
+
+<h3>💻Linguagens</h3>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>VBScript</li>
+</ul>
