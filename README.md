@@ -25,4 +25,5 @@
 
 <h3>📱Contato</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-macedo-da-silva-5797331b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-macedo-da-silva-5797331b7/)
+
