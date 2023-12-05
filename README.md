@@ -20,3 +20,9 @@
   <li>SQL</li>
   <li>VBScript</li>
 </ul>
+
+<hr></hr>
+
+<h3>📱Contato</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-macedo-da-silva/)
