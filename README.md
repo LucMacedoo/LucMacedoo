@@ -6,6 +6,4 @@
 
 📚Atualmente, sou aluno na FATEC Antônio Russo em São Caetano do Sul e estudo inglês na CNA São Bernardo - Centro. Em casa, estou sempre em busca de conhecimento. Aproveito cursos online e, além disso, conduzo pesquisas independentes para adquirir o conhecimento necessário e aprofundar meu entendimento nos assuntos abordados.
 
-```
-Oi
-```
+🔗 **LinkedIn:** [Perfil no LinkedIn]([link para o seu perfil](https://www.linkedin.com/in/lucas-macedo-da-silva-5797331b7/)https://www.linkedin.com/in/lucas-macedo-da-silva-5797331b7/)
