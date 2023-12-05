@@ -8,7 +8,7 @@
 
 <hr></hr>
 
-<h3>💻Linguagens</h3>
+<h3>💻Linguagens que utilizo</h3>
 
 <ul>
   <li>HTML</li>
